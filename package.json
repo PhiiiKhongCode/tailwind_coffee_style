@@ -1,0 +1,13 @@
+{
+  "name": "coffee-style",
+  "version": "1.0.0",
+  "description": "philt.com",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/input.css -o ./public/output.css --watch"
+
+  },
+  "keywords": [],
+  "author": "philt.com",
+  "license": "ISC"
+}
