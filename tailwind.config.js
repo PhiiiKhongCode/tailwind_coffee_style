@@ -18,6 +18,7 @@ module.exports = {
       animation: {
         slideDown: "slideDown 0.5s linear",
       },
+      backgroundImage: {},
     },
   },
   plugins: [],
